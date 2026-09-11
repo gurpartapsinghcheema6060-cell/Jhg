@@ -1,0 +1,6 @@
+{
+  "name": "New Vijay Bakery - Batala",
+  "description": "Demo website for New Vijay Bakery, Batala, Punjab. Fresh cakes, bakery treats, snacks, and fast food.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
